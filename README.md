@@ -2,7 +2,7 @@
 
 This is a demo Flutter project that is integrated with Firebase Firestore database and implements the BLOC pattern to manage UI state.
 
-![](http://i.imgur.com/OUkLi.gif)
+![](https://firebasestorage.googleapis.com/v0/b/github-demo-9415c.appspot.com/o/Video-2018-10-01%2017.40.23.gif?alt=media&token=80e75cc6-7be1-409a-b68f-7d7c8020b8f0)
 
 ## Running the Demo On Your Machine
 
