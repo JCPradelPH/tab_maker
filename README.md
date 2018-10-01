@@ -2,6 +2,8 @@
 
 This is a demo Flutter project that is integrated with Firebase Firestore database and implements the BLOC pattern to manage UI state.
 
+![](http://i.imgur.com/OUkLi.gif)
+
 ## Running the Demo On Your Machine
 
 In order to be able to run the demo on your machine, you must have <a href="https://flutter.io/" target="_blank">Flutter</a> installed.
